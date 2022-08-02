@@ -6,7 +6,7 @@ authors = ["oq-Yuki-po <o.yukinko0715@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
-tensorflow = "^2.9.1"
+tensorflow = "2.7.3"
 Pillow = "^9.2.0"
 numpy = "^1.23.1"
 pandas = "^1.4.3"
